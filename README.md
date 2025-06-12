@@ -50,6 +50,6 @@ Il database è progettato per riflettere le principali funzionalità di LinkedIn
 
 - Nome: *Andrea De Tomasi*
 - GitHub: [github.com/AndreaDeTomasi1](https://github.com/AndreaDeTomasi1)
-- LinkedIn: [linkedin.com/in/andrea-de-tomasi-48904130a](https://linkedin.com/andrea-de-tomasi-48904130a)
+- LinkedIn: [linkedin.com/in/andrea-de-tomasi](https://www.linkedin.com/in/andrea-de-tomasi-48904130a/)
 
 
